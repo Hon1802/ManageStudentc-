@@ -1,0 +1,298 @@
+E:\NĂM 2\ky 2\W.P\W4\project_10_3\project_10_3\bin\Debug\project_10_3.exe.config
+E:\NĂM 2\ky 2\W.P\W4\project_10_3\project_10_3\bin\Debug\project_10_3.exe
+E:\NĂM 2\ky 2\W.P\W4\project_10_3\project_10_3\bin\Debug\project_10_3.pdb
+E:\NĂM 2\ky 2\W.P\W4\project_10_3\project_10_3\obj\Debug\project_10_3.csproj.AssemblyReference.cache
+E:\NĂM 2\ky 2\W.P\W4\project_10_3\project_10_3\obj\Debug\project_10_3.Add_Student_Form.resources
+E:\NĂM 2\ky 2\W.P\W4\project_10_3\project_10_3\obj\Debug\project_10_3.Form1.resources
+E:\NĂM 2\ky 2\W.P\W4\project_10_3\project_10_3\obj\Debug\project_10_3.Main.resources
+E:\NĂM 2\ky 2\W.P\W4\project_10_3\project_10_3\obj\Debug\project_10_3.Properties.Resources.resources
+E:\NĂM 2\ky 2\W.P\W4\project_10_3\project_10_3\obj\Debug\project_10_3.Register_Form.resources
+E:\NĂM 2\ky 2\W.P\W4\project_10_3\project_10_3\obj\Debug\project_10_3.Update_Form.resources
+E:\NĂM 2\ky 2\W.P\W4\project_10_3\project_10_3\obj\Debug\project_10_3.csproj.GenerateResource.cache
+E:\NĂM 2\ky 2\W.P\W4\project_10_3\project_10_3\obj\Debug\project_10_3.csproj.CoreCompileInputs.cache
+E:\NĂM 2\ky 2\W.P\W4\project_10_3\project_10_3\obj\Debug\project_10_3.exe
+E:\NĂM 2\ky 2\W.P\W4\project_10_3\project_10_3\obj\Debug\project_10_3.pdb
+E:\NĂM 2\ky 2\W.P\W5\project_10_3\project_10_3\bin\Debug\project_10_3.exe.config
+E:\NĂM 2\ky 2\W.P\W5\project_10_3\project_10_3\bin\Debug\project_10_3.exe
+E:\NĂM 2\ky 2\W.P\W5\project_10_3\project_10_3\bin\Debug\project_10_3.pdb
+E:\NĂM 2\ky 2\W.P\W5\project_10_3\project_10_3\obj\Debug\project_10_3.csproj.AssemblyReference.cache
+E:\NĂM 2\ky 2\W.P\W5\project_10_3\project_10_3\obj\Debug\project_10_3.Add_Student_Form.resources
+E:\NĂM 2\ky 2\W.P\W5\project_10_3\project_10_3\obj\Debug\project_10_3.Form1.resources
+E:\NĂM 2\ky 2\W.P\W5\project_10_3\project_10_3\obj\Debug\project_10_3.Main.resources
+E:\NĂM 2\ky 2\W.P\W5\project_10_3\project_10_3\obj\Debug\project_10_3.Properties.Resources.resources
+E:\NĂM 2\ky 2\W.P\W5\project_10_3\project_10_3\obj\Debug\project_10_3.Register_Form.resources
+E:\NĂM 2\ky 2\W.P\W5\project_10_3\project_10_3\obj\Debug\project_10_3.Update_Form.resources
+E:\NĂM 2\ky 2\W.P\W5\project_10_3\project_10_3\obj\Debug\project_10_3.csproj.GenerateResource.cache
+E:\NĂM 2\ky 2\W.P\W5\project_10_3\project_10_3\obj\Debug\project_10_3.csproj.CoreCompileInputs.cache
+E:\NĂM 2\ky 2\W.P\W5\project_10_3\project_10_3\obj\Debug\project_10_3.exe
+E:\NĂM 2\ky 2\W.P\W5\project_10_3\project_10_3\obj\Debug\project_10_3.pdb
+E:\NĂM 2\ky 2\W.P\W5\project_10_3\project_10_3\obj\Debug\project_10_3.Student_List_Form.resources
+E:\NĂM 2\ky 2\W.P\W5\project_10_3\project_10_3\obj\Debug\project_10_3.Update_Delete_Student_Form.resources
+E:\NĂM 2\ky 2\W.P\W5\project_10_3\project_10_3\obj\Debug\project_10_3.Form2.resources
+E:\NĂM 2\ky 2\W.P\W7\project_10_3\project_10_3\bin\Debug\project_10_3.exe.config
+E:\NĂM 2\ky 2\W.P\W7\project_10_3\project_10_3\bin\Debug\project_10_3.exe
+E:\NĂM 2\ky 2\W.P\W7\project_10_3\project_10_3\bin\Debug\project_10_3.pdb
+E:\NĂM 2\ky 2\W.P\W7\project_10_3\project_10_3\obj\Debug\project_10_3.csproj.AssemblyReference.cache
+E:\NĂM 2\ky 2\W.P\W7\project_10_3\project_10_3\obj\Debug\project_10_3.Add_Student_Form.resources
+E:\NĂM 2\ky 2\W.P\W7\project_10_3\project_10_3\obj\Debug\project_10_3.Form1.resources
+E:\NĂM 2\ky 2\W.P\W7\project_10_3\project_10_3\obj\Debug\project_10_3.Main.resources
+E:\NĂM 2\ky 2\W.P\W7\project_10_3\project_10_3\obj\Debug\project_10_3.Properties.Resources.resources
+E:\NĂM 2\ky 2\W.P\W7\project_10_3\project_10_3\obj\Debug\project_10_3.Register_Form.resources
+E:\NĂM 2\ky 2\W.P\W7\project_10_3\project_10_3\obj\Debug\project_10_3.Student_List_Form.resources
+E:\NĂM 2\ky 2\W.P\W7\project_10_3\project_10_3\obj\Debug\project_10_3.Update_Delete_Student_Form.resources
+E:\NĂM 2\ky 2\W.P\W7\project_10_3\project_10_3\obj\Debug\project_10_3.Update_Form.resources
+E:\NĂM 2\ky 2\W.P\W7\project_10_3\project_10_3\obj\Debug\project_10_3.csproj.GenerateResource.cache
+E:\NĂM 2\ky 2\W.P\W7\project_10_3\project_10_3\obj\Debug\project_10_3.csproj.CoreCompileInputs.cache
+E:\NĂM 2\ky 2\W.P\W7\project_10_3\project_10_3\obj\Debug\project_10_3.exe
+E:\NĂM 2\ky 2\W.P\W7\project_10_3\project_10_3\obj\Debug\project_10_3.pdb
+E:\NĂM 2\ky 2\W.P\W7\project_10_3\project_10_3\obj\Debug\project_10_3.Static_Student.resources
+E:\NĂM 2\ky 2\W.P\W7\project_10_3\project_10_3\obj\Debug\project_10_3.Manage_Students_Form.resources
+E:\NĂM 2\ky 2\W.P\W9\project_10_3\project_10_3\bin\Debug\project_10_3.exe.config
+E:\NĂM 2\ky 2\W.P\W9\project_10_3\project_10_3\bin\Debug\project_10_3.exe
+E:\NĂM 2\ky 2\W.P\W9\project_10_3\project_10_3\bin\Debug\project_10_3.pdb
+E:\NĂM 2\ky 2\W.P\W9\project_10_3\project_10_3\obj\Debug\project_10_3.csproj.AssemblyReference.cache
+E:\NĂM 2\ky 2\W.P\W9\project_10_3\project_10_3\obj\Debug\project_10_3.Add_Student_Form.resources
+E:\NĂM 2\ky 2\W.P\W9\project_10_3\project_10_3\obj\Debug\project_10_3.Form1.resources
+E:\NĂM 2\ky 2\W.P\W9\project_10_3\project_10_3\obj\Debug\project_10_3.Main.resources
+E:\NĂM 2\ky 2\W.P\W9\project_10_3\project_10_3\obj\Debug\project_10_3.Manage_Students_Form.resources
+E:\NĂM 2\ky 2\W.P\W9\project_10_3\project_10_3\obj\Debug\project_10_3.Properties.Resources.resources
+E:\NĂM 2\ky 2\W.P\W9\project_10_3\project_10_3\obj\Debug\project_10_3.Register_Form.resources
+E:\NĂM 2\ky 2\W.P\W9\project_10_3\project_10_3\obj\Debug\project_10_3.Static_Student.resources
+E:\NĂM 2\ky 2\W.P\W9\project_10_3\project_10_3\obj\Debug\project_10_3.Student_List_Form.resources
+E:\NĂM 2\ky 2\W.P\W9\project_10_3\project_10_3\obj\Debug\project_10_3.Update_Delete_Student_Form.resources
+E:\NĂM 2\ky 2\W.P\W9\project_10_3\project_10_3\obj\Debug\project_10_3.Update_Form.resources
+E:\NĂM 2\ky 2\W.P\W9\project_10_3\project_10_3\obj\Debug\project_10_3.csproj.GenerateResource.cache
+E:\NĂM 2\ky 2\W.P\W9\project_10_3\project_10_3\obj\Debug\project_10_3.csproj.CoreCompileInputs.cache
+E:\NĂM 2\ky 2\W.P\W9\project_10_3\project_10_3\obj\Debug\project_10_3.exe
+E:\NĂM 2\ky 2\W.P\W9\project_10_3\project_10_3\obj\Debug\project_10_3.pdb
+E:\NĂM 2\ky 2\W.P\W9\project_10_3\project_10_3\obj\Debug\project_10_3.Print_Student.resources
+E:\NĂM 2\ky 2\W.P\W10\project_10_3\project_10_3\bin\Debug\project_10_3.exe.config
+E:\NĂM 2\ky 2\W.P\W10\project_10_3\project_10_3\bin\Debug\project_10_3.exe
+E:\NĂM 2\ky 2\W.P\W10\project_10_3\project_10_3\bin\Debug\project_10_3.pdb
+E:\NĂM 2\ky 2\W.P\W10\project_10_3\project_10_3\obj\Debug\project_10_3.csproj.AssemblyReference.cache
+E:\NĂM 2\ky 2\W.P\W10\project_10_3\project_10_3\obj\Debug\project_10_3.Add_Student_Form.resources
+E:\NĂM 2\ky 2\W.P\W10\project_10_3\project_10_3\obj\Debug\project_10_3.Form1.resources
+E:\NĂM 2\ky 2\W.P\W10\project_10_3\project_10_3\obj\Debug\project_10_3.Main.resources
+E:\NĂM 2\ky 2\W.P\W10\project_10_3\project_10_3\obj\Debug\project_10_3.Manage_Students_Form.resources
+E:\NĂM 2\ky 2\W.P\W10\project_10_3\project_10_3\obj\Debug\project_10_3.Print_Student.resources
+E:\NĂM 2\ky 2\W.P\W10\project_10_3\project_10_3\obj\Debug\project_10_3.Properties.Resources.resources
+E:\NĂM 2\ky 2\W.P\W10\project_10_3\project_10_3\obj\Debug\project_10_3.Register_Form.resources
+E:\NĂM 2\ky 2\W.P\W10\project_10_3\project_10_3\obj\Debug\project_10_3.Static_Student.resources
+E:\NĂM 2\ky 2\W.P\W10\project_10_3\project_10_3\obj\Debug\project_10_3.Student_List_Form.resources
+E:\NĂM 2\ky 2\W.P\W10\project_10_3\project_10_3\obj\Debug\project_10_3.Update_Delete_Student_Form.resources
+E:\NĂM 2\ky 2\W.P\W10\project_10_3\project_10_3\obj\Debug\project_10_3.Update_Form.resources
+E:\NĂM 2\ky 2\W.P\W10\project_10_3\project_10_3\obj\Debug\project_10_3.csproj.GenerateResource.cache
+E:\NĂM 2\ky 2\W.P\W10\project_10_3\project_10_3\obj\Debug\project_10_3.csproj.CoreCompileInputs.cache
+E:\NĂM 2\ky 2\W.P\W10\project_10_3\project_10_3\obj\Debug\project_10_3.exe
+E:\NĂM 2\ky 2\W.P\W10\project_10_3\project_10_3\obj\Debug\project_10_3.pdb
+E:\NĂM 2\ky 2\W.P\W10\project_10_3\project_10_3\obj\Debug\project_10_3.Manage_Courses_Form.resources
+E:\NĂM 2\ky 2\W.P\W10\project_10_3\project_10_3\obj\Debug\project_10_3.Add_Course_Form.resources
+E:\NĂM 2\ky 2\W.P\W10\project_10_3\project_10_3\obj\Debug\project_10_3.Remove_Courses_Form.resources
+E:\NĂM 2\ky 2\W.P\W10\project_10_3\project_10_3\obj\Debug\project_10_3.Update_Course_Form.resources
+E:\NĂM 2\ky 2\W.P\W10\project_10_3\project_10_3\bin\Debug\Xceed.Document.NET.dll
+E:\NĂM 2\ky 2\W.P\W10\project_10_3\project_10_3\bin\Debug\Xceed.Words.NET.dll
+E:\NĂM 2\ky 2\W.P\W10\project_10_3\project_10_3\obj\Debug\project_10_3.csproj.CopyComplete
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\bin\Debug\project_10_3.exe.config
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\bin\Debug\project_10_3.exe
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\bin\Debug\project_10_3.pdb
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\bin\Debug\Xceed.Document.NET.dll
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\bin\Debug\Xceed.Words.NET.dll
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\obj\Debug\project_10_3.csproj.AssemblyReference.cache
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Add_Course_Form.resources
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Add_Student_Form.resources
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Form1.resources
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Main.resources
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Manage_Courses_Form.resources
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Manage_Students_Form.resources
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Print_Courses_Form.resources
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Print_Student.resources
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Properties.Resources.resources
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Register_Form.resources
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Remove_Courses_Form.resources
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Static_Student.resources
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Student_List_Form.resources
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Update_Course_Form.resources
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Update_Delete_Student_Form.resources
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Update_Form.resources
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\obj\Debug\project_10_3.csproj.GenerateResource.cache
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\obj\Debug\project_10_3.csproj.CoreCompileInputs.cache
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\obj\Debug\project_10_3.csproj.CopyComplete
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\obj\Debug\project_10_3.exe
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\obj\Debug\project_10_3.pdb
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\bin\Debug\CircularProgressBar.dll
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\bin\Debug\WinFormAnimation.dll
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\bin\Debug\CircularProgressBar.xml
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Add_Score.resources
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Remove_Score.resources
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Manage_score.resources
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Avr_Score_By_Course.resources
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.dll
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.WinForms.dll
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.Wpf.dll
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.pdb
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.xml
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.WinForms.pdb
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.WinForms.xml
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.Wpf.pdb
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.Wpf.xml
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Static_Result.resources
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\obj\Debug\project_10_3.AVG_Result_By_Score.resources
+E:\NĂM 2\ky 2\W.P\W11\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Print_Result.resources
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.csproj.AssemblyReference.cache
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Add_Course_Form.resources
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Add_Score.resources
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Add_Student_Form.resources
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.AVG_Result_By_Score.resources
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Avr_Score_By_Course.resources
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Form1.resources
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Main.resources
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Manage_Courses_Form.resources
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Manage_score.resources
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Manage_Students_Form.resources
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Print_Courses_Form.resources
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Print_Result.resources
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Print_Student.resources
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Properties.Resources.resources
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Register_Form.resources
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Remove_Courses_Form.resources
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Remove_Score.resources
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Student_List_Form.resources
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Update_Course_Form.resources
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Update_Delete_Student_Form.resources
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Update_Form.resources
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.csproj.GenerateResource.cache
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.csproj.CoreCompileInputs.cache
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.exe
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.pdb
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\bin\Debug\project_10_3.exe.config
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\bin\Debug\project_10_3.exe
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\bin\Debug\project_10_3.pdb
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\bin\Debug\CircularProgressBar.dll
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.dll
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.WinForms.dll
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.Wpf.dll
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\bin\Debug\WinFormAnimation.dll
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\bin\Debug\Xceed.Document.NET.dll
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\bin\Debug\Xceed.Words.NET.dll
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\bin\Debug\CircularProgressBar.xml
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.pdb
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.xml
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.WinForms.pdb
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.WinForms.xml
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.Wpf.pdb
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.Wpf.xml
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.csproj.CopyComplete
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Contact_Group.resources
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Create_New_Account.resources
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Statistic_Result.resources
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Statistics_Student.resources
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Add_Edit_new_contact.resources
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.UserHR.resources
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Full_contacts.resources
+E:\NĂM 2\ky 2\W.P\W14\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Show_Contact.resources
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\bin\Debug\project_10_3.exe.config
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\bin\Debug\project_10_3.exe
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\bin\Debug\project_10_3.pdb
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\bin\Debug\CircularProgressBar.dll
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.dll
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.WinForms.dll
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.Wpf.dll
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\bin\Debug\WinFormAnimation.dll
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\bin\Debug\Xceed.Document.NET.dll
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\bin\Debug\Xceed.Words.NET.dll
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\bin\Debug\CircularProgressBar.xml
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.pdb
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.xml
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.WinForms.pdb
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.WinForms.xml
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.Wpf.pdb
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.Wpf.xml
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.csproj.AssemblyReference.cache
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Add_Course_Form.resources
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Add_Edit_new_contact.resources
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Add_Score.resources
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Add_Student_Form.resources
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.AVG_Result_By_Score.resources
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Avr_Score_By_Course.resources
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Contact_Group.resources
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Create_New_Account.resources
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Form1.resources
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Main.resources
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Manage_Courses_Form.resources
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Manage_score.resources
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Manage_Students_Form.resources
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Print_Courses_Form.resources
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Print_Result.resources
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Print_Student.resources
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Properties.Resources.resources
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Register_Form.resources
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Remove_Courses_Form.resources
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Remove_Score.resources
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Show_Contact.resources
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Statistic_Result.resources
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Statistics_Student.resources
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Student_List_Form.resources
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Update_Course_Form.resources
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Update_Delete_Student_Form.resources
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Update_Form.resources
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.UserHR.resources
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.csproj.GenerateResource.cache
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.csproj.CoreCompileInputs.cache
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.csproj.CopyComplete
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.exe
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.pdb
+E:\NĂM 2\ky 2\W.P\giuaky\project_10_3(1)\project_10_3\obj\Debug\project_10_3.HR.Forget_Password.resources
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\bin\Debug\project_10_3.exe.config
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\bin\Debug\project_10_3.exe
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\bin\Debug\project_10_3.pdb
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\bin\Debug\CircularProgressBar.dll
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.dll
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.WinForms.dll
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.Wpf.dll
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\bin\Debug\WinFormAnimation.dll
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\bin\Debug\Xceed.Document.NET.dll
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\bin\Debug\Xceed.Words.NET.dll
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\bin\Debug\CircularProgressBar.xml
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.pdb
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.xml
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.WinForms.pdb
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.WinForms.xml
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.Wpf.pdb
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\bin\Debug\LiveCharts.Wpf.xml
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.csproj.AssemblyReference.cache
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Add_Course_Form.resources
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Add_Edit_new_contact.resources
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.HR.Forget_Password.resources
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Add_Score.resources
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Add_Student_Form.resources
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.AVG_Result_By_Score.resources
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Avr_Score_By_Course.resources
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Contact_Group.resources
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Create_New_Account.resources
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Form1.resources
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Main.resources
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Manage_Courses_Form.resources
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Manage_score.resources
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Manage_Students_Form.resources
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Print_Courses_Form.resources
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Print_Result.resources
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Print_Student.resources
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Properties.Resources.resources
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Register_Form.resources
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Remove_Courses_Form.resources
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Remove_Score.resources
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Show_Contact.resources
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Statistic_Result.resources
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Statistics_Student.resources
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Student_List_Form.resources
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Update_Course_Form.resources
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Update_Delete_Student_Form.resources
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.Update_Form.resources
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.UserHR.resources
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.csproj.GenerateResource.cache
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.csproj.CoreCompileInputs.cache
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.csproj.CopyComplete
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.exe
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.pdb
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.HR.Edit_My_Profile.resources
+E:\NĂM 2\ky 2\W.P\giuaky - Copy\project_10_3(1)\project_10_3\obj\Debug\project_10_3.DK.Register_St.resources
